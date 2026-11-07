@@ -18,6 +18,8 @@ This repo holds my weekly notes, exercises, and projects. It's also the raw mate
 | # | Project | Date | What it covers |
 | --- | --- | --- | --- |
 | 01 | [Ice Cream Cone](projects/01-ice-cream) | Oct 15 | Shapes, custom `Triangle`, `ZStack` layering, `.offset`, `.rotationEffect` |
+| 02 | [House](projects/02-house) | Oct 15 | Custom `Triangle`, nested `ZStack`s, `.offset` math, `.overlay` + `.stroke` |
+| 03 | [Book of Swift](projects/03-book) | Oct 20 | Nested `HStack`/`ZStack`/`VStack`, `Spacer`, `.overlay` borders and text |
 | 04 | [Pokémon Cards](projects/04-pokemon-cards) | Oct 22 | Data model struct, array, `ForEach`, custom view, dictionary color lookup, `ZStack` border |
 | 05 | [Pokémon Cards (Refactored)](projects/05-pokemon-cards-refactored) | Oct 25 | `Identifiable` + `UUID`, computed property with `switch`, `.overlay` border |
 
