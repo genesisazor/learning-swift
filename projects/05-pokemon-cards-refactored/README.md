@@ -2,7 +2,7 @@
 
 **Week 2** · SwiftUI · Built from the instructor's refactored starter code
 
-A second version of the Pokémon cards app, completing the class's refactored starter code. Compare it with my own version in [`../pokemon-cards`](../pokemon-cards).
+A second version of the Pokémon cards app, completing the class's refactored starter code. Compare it with my own version in [`04-pokemon-cards`](../04-pokemon-cards).
 
 ## What's different from my version
 - `Pokemon` conforms to `Identifiable` with a `UUID` id, so `ForEach(pokemonData)` doesn't need `id:`
