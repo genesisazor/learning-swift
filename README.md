@@ -23,6 +23,7 @@ This repo holds my weekly notes, exercises, and projects. It's also the raw mate
 | 04 | [Pokémon Cards](projects/04-pokemon-cards) | Oct 22 | Data model struct, array, `ForEach`, custom view, dictionary color lookup, `ZStack` border |
 | 05 | [Pokémon Cards (Refactored)](projects/05-pokemon-cards-refactored) | Oct 25 | `Identifiable` + `UUID`, computed property with `switch`, `.overlay` border |
 | 06 | [Onboarding Flow](projects/06-onboarding) | Oct 27 | `TabView` paging, SF Symbols, reusable `FeatureCard`, `.border` for layout, custom gradient colors |
+| 07 | [Dice Roller](projects/07-dice-roller) | Oct 31 | `@State`, `Button`, random numbers, `ForEach` over a range, `.disabled`, `withAnimation` |
 
 ## Tools
 
