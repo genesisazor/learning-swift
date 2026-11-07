@@ -1,0 +1,25 @@
+# Xcode user and build data
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage
+Pods/
+Carthage/Build/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS
+.DS_Store
+
+# Class materials that shouldn't be public (slides, handouts, PDFs from the instructor)
+private-materials/
