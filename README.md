@@ -25,6 +25,7 @@ This repo holds my weekly notes, exercises, and projects. It's also the raw mate
 | 06 | [Onboarding Flow](projects/06-onboarding) | Oct 27 | `TabView` paging, SF Symbols, reusable `FeatureCard`, `.border` for layout, custom gradient colors |
 | 07 | [Dice Roller](projects/07-dice-roller) | Oct 31 | `@State`, `Button`, random numbers, `ForEach` over a range, `.disabled`, `withAnimation` |
 | 08 | [Soundboard](projects/08-soundboard) | Nov 2 | `AVAudioPlayer`, functions, optionals, `.onTapGesture`, `Identifiable` model |
+| 10 | [Color Picker](projects/10-color-picker) | Nov 5 | `Toggle`, `Slider`, `$` bindings, ternary operator, `Color(red:green:blue:)`, Reset button |
 
 ## Tools
 
